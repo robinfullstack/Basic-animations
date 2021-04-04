@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg preserveAspectRatio="xMinYMid" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-0.5,0)">
+        <rect x="25" y="19" width="15" height="27" style="fill:white;"/>
+    </g>
+    <path id="Livello_12" d="M39.128,42.451L24.871,42.451L24.871,19.343L39.128,19.343L39.128,42.451ZM30.89,44.798C30.89,44.162 31.402,43.647 32.031,43.647C32.659,43.647 33.17,44.163 33.17,44.798C33.17,45.432 32.659,45.948 32.031,45.948C31.4,45.947 30.89,45.432 30.89,44.798M40.083,45.842L40.087,45.842L40.087,18.148L40.087,18.144L40.084,18.144C40.082,17.512 39.57,17 38.935,17C38.931,17 38.929,17 38.923,17L36.341,17L28.806,17L25.062,17C24.431,17 23.916,17.514 23.915,18.145L23.914,18.145L23.914,45.842L23.916,45.842C23.916,45.856 23.914,45.865 23.914,45.878C23.914,46.498 24.435,47 25.077,47C25.088,47 25.096,46.999 25.105,46.999L25.105,47L38.953,47C39.577,47 40.085,46.498 40.085,45.878C40.087,45.865 40.083,45.854 40.083,45.842" style="fill:rgb(68,68,68);fill-rule:nonzero;"/>
+</svg>
